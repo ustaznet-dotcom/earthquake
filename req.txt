@@ -1,0 +1,2 @@
+pache-airflow==2.10.5
+duckdb==1.2.2
