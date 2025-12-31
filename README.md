@@ -2,7 +2,7 @@
 
 # 📦 E-commerce Data Pipeline (Airflow + DuckDB + Postgres)
 
-![Architecture Diagram](images/E-commerce Data.png)
+![Architecture Diagram](images/Ecommerce_Data.png)
 
 
 ## 🎯 Задача проекта
