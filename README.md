@@ -2,6 +2,12 @@
 
 
 # 📦 E-commerce Data Pipeline (Airflow + DuckDB + PostgreSQL)
+![SQLite Version](https://img.shields.io/badge/data-engineering-pink)
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![Python Version](https://img.shields.io/badge/postgres-SQL-blue)
+![Docker](https://img.shields.io/badge/docker-26A5E4?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/apache%20airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=flat&logo=duckdb&logoColor=black)
 
 ![Architecture Diagram](images/E_commerce_Data.png)
 
